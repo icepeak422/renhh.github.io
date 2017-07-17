@@ -1,5 +1,7 @@
 ## Welcome to Hang Ren Personal page
-
+<title>
+	Hang Ren
+</title>>
 Here are my posts!!
 <ul>
   {% for post in site.posts %}
