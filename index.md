@@ -1,10 +1,10 @@
 ## Hang personal block
 
 Post
-<ul>
+<url>
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
-</ul>
+</url>
