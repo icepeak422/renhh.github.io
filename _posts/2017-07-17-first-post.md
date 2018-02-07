@@ -1,6 +1,6 @@
 # lane_detection_alex
 ## Download the dataset
-The dataset is from Caltech website:<a href='http://www.mohamedaly.info/datasets/caltech-lanes'></a>
+The dataset is from Caltech website:<a href='http://www.mohamedaly.info/datasets/caltech-lanes'>http://www.mohamedaly.info/datasets/caltech-lanes</a>
 ## dl_alexnet
 I choose alexnet from matlab nerual network tool box to finish this task. Here I have to modify the structure of alexnet.
 
